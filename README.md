@@ -127,6 +127,7 @@ Developed an interactive dashboard featuring:
 
 ## POWER BI DASHBORAD PREVIEW
 
+<img width="1316" height="737" alt="Screenshot 2026-07-14 145829" src="https://github.com/user-attachments/assets/723c25cf-386e-4cfb-b9a8-ffc2c7ce4e74" />
 
 
 ---
