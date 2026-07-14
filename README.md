@@ -125,32 +125,9 @@ Developed an interactive dashboard featuring:
 
 ---
 
-## 📁 Repository Structure
+## POWER BI DASHBORAD PREVIEW
 
-```text
-Marketing-Campaign-Analysis/
-│
-├── Data/
-│   └── marketing_campaign.xlsx
-│
-├── Python/
-│   ├── Data_Cleaning.ipynb
-│   ├── EDA.ipynb
-│   └── Visualizations.ipynb
-│
-├── SQL/
-│   ├── Database.sql
-│   ├── Table.sql
-│   └── Business_Queries.sql
-│
-├── PowerBI/
-│   └── Marketing_Dashboard.pbix
-│
-├── Images/
-│   └── Dashboard_Screenshot.png
-│
-└── README.md
-```
+
 
 ---
 
