@@ -5,6 +5,10 @@
 This project analyzes a marketing campaign dataset to uncover customer behavior, purchasing patterns, and campaign performance. The analysis follows a complete data analytics workflow using **Python** for data cleaning and exploratory analysis, **SQL Server** for querying business insights, and **Power BI** for creating an interactive dashboard.
 
 ---
+## Tableau Dashboard Preview
+
+<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/06750919-3521-493b-97bf-3802d51aa714" />
+
 
 ## 🎯 Project Objectives
 
